@@ -9,13 +9,23 @@ As aforementioned, I used straight ReactJS for this project. I did not use any l
 
 # Files #
 App.js - handles the routing of the React project. I use react-router-dom's BrowserRouter.
+
 AboutMe.js & AboutMe.css - handles the content of the About Me page on the website.
+
 Connect.js & Connect.css - handles the content of the Connect page on the website.
+
 Education.js & Education.css - handles the content of the Education page on the website.
+
 Experience.js & Experience.css - handles the content of the Experience page on the website.
+
 Footer.js & Footer.css - handles the content of the Footer subsection on the bottom of the website (just a block of text).
+
 Header.js & Header.css - handles the content of the Header subsection on the top of the website (present in every component and contains links to other pages).
+
 Home.js & Home.css & otherCSSwork.scss - handles the content of the Home page on the website (some of the animations on this page are on otherCSSwork.css).
+
 NotFoundPage.js - handles the content of the NotFoundPage on the website - whenever you encounter a 404 error, this page is displayed.
+
 Portfolio.js & Portfolio.css - handles the content of the Portfolio page on the website.
+
 Skills.js & Skills.css - handles the content of the Skills page on the website.
